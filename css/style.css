@@ -1225,7 +1225,7 @@ select.form-control:not([size]):not([multiple]) {
 
 .members .member-item {
   background: #fff;
-  padding: 7px;
+  padding: 20px;
   margin-bottom: 30px;
 }
 
