@@ -1479,9 +1479,9 @@ select.form-control:not([size]):not([multiple]) {
   width: 70%;
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 991px) {
   .schedule .schedule-contents .schedule-item ul li .subject {
-    display: none;
+    width: 50%;
   }
 }
 
